@@ -1,1 +1,2 @@
-# MichaelOluwaseun246.github.io
+# Michael Oluwaseun
+## Data Analyst | SQL | Excel | Power BI

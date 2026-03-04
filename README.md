@@ -1,6 +1,6 @@
 # Michael Oluwaseun
 ## Data Analyst | Reporting • Insights • Dashboards (SQL • Excel • Power BI)
-### Transforming Raw Data into Actionable Insights
+### Turning Complex Data into Clear Insights for Better Decision-Making
 
 Data Analyst with over 2 years of experience in data analytics, specialising in Structured Query Language for data extraction, transformation, and data manipulation, Microsoft Excel for advanced reporting and modelling, and Power BI for building interactive dashboards. I transform raw data into clear insights that support better decisions and improved performance.
 
@@ -8,11 +8,11 @@ Data Analyst with over 2 years of experience in data analytics, specialising in 
 
 ## 📊 Portfolio Projects
 
-### Cardiac Surgery & Mortality Risk Analysis Dashboard (2020)
+### Cardiac Surgery Performance & Mortality Risk Analysis (2020)
 
 This project analyses 1,335 cardiac surgery procedures performed in 2020 to evaluate surgical activity, patient outcomes, and mortality risk predictions. Using Microsoft Excel, I cleaned and validated clinical data, compared two mortality risk models, and built an interactive dashboard to explore surgical performance across surgeons and procedure types. The analysis highlights variations in surgical workload, mortality outcomes, and differences between predictive risk models.
 
-🔗 Project Link: [(https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/Cardiac%20Surgery%20%26%20Mortality%20Risk%20Analysis.xlsx)]
+🔗 Project Link: [Excel Analysis File](https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/Cardiac%20Surgery%20%26%20Mortality%20Risk%20Analysis.xlsx)
 
 **Tools Used**
 - Microsoft Excel (PivotTables, PivotCharts, power query editor, conditional formatting, timelines, slicers, calculated metrics)
@@ -38,6 +38,8 @@ This project demonstrates how structured data analysis and visualisation can sup
 
 - Mortality Risk Model Comparison: The two statistical models produced different predicted mortality levels, with Model 1 consistently predicting higher risk values than Model 2, highlighting potential differences in modelling assumptions.
 
+- Procedure Volume Insight: CABG procedures represented the largest share of surgical activity, indicating that coronary artery bypass surgery is the most frequently performed cardiac intervention in this dataset.
+
 - Outlier Observation: The “Multiple Surgeon Team” category displayed unusually high predicted mortality risk, likely influenced by the small sample size of procedures, which can distort average risk estimates.
 
 - Patient Outcomes: The majority of patients were discharged Alive, with very few Unknown outcomes recorded, indicating strong data completeness and reliable outcome reporting.
@@ -49,7 +51,7 @@ This project demonstrates how structured data analysis and visualisation can sup
 
 
 
-**Dashboard Overview**
+**Interactive Dashboard Overview**
 
 ![cardiac-dashboard-overview](cardiac-dashboard-overview.jpg)
 ---

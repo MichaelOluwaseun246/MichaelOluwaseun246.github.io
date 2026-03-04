@@ -1,2 +1,2 @@
 # Michael Oluwaseun
-## Data Analyst | SQL | Excel | Power BI
+## Data Analyst Transforming Raw Data into Actionable Insights | SQL | Excel | Power BI

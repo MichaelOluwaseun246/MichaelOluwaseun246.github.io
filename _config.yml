@@ -1,14 +1,16 @@
 title: Data Analyst
 logo: /logo.png
 description: |
-  **Focus Areas**
-
-  - Performance reporting and KPI tracking
-  - Outcome and trend analysis
-  - Risk pattern identification and evaluation
-  - Operational activity and volume analysis
-  - Insight generation to support strategic decision-making
+  <strong>Focus Areas</strong>
+  <ul>
+    <li>Performance reporting and KPI tracking</li>
+    <li>Outcome and trend analysis</li>
+    <li>Risk pattern identification and evaluation</li>
+    <li>Operational activity and volume analysis</li>
+    <li>Insight generation to support strategic decision-making</li>
+  </ul>
 
 #show_downloads: true
 #google_analytics:
+
 remote_theme: pages-themes/minimal@v0.2.0

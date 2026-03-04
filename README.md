@@ -22,11 +22,11 @@ An interactive dashboard analysing surgery volume, discharge outcomes, operation
 
 **Project Description:**
 
-- Data extraction, transformation, and analysis using Structured Query Language  
-- Data cleaning, validation, and quality checks  
-- Dashboard design and reporting using Microsoft Excel and Power BI  
-- Trend analysis, performance monitoring, and insight reporting  
-- Clear communication of findings to support decision-making  
+
+**Key Findings**
+
+
+**Dashboard Overview**
 
 ---
 

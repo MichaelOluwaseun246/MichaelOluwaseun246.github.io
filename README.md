@@ -15,18 +15,12 @@ An interactive dashboard analysing surgery volume, discharge outcomes, operation
 **Tools Used**
 - Microsoft Excel (PivotTables, PivotCharts, timelines, slicers, calculated metrics)
 
-**Focus Areas**
-- Performance reporting and KPI tracking
-- Outcome and trend analysis
-- Risk pattern identification and evaluation
-- Operational activity and volume analysis
-- Insight generation to support strategic decision-making  
 
 🔗 Project Link: (Paste your GitHub repo link here after creating it)
 
 ---
 
-## 🛠 Skills
+**Project Description:**
 
 - Data extraction, transformation, and analysis using Structured Query Language  
 - Data cleaning, validation, and quality checks  

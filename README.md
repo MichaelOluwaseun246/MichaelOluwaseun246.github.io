@@ -1,5 +1,5 @@
 # Michael Oluwaseun
-## Data Analyst | SQL | Excel | Power BI
+## Data Analyst | Reporting • Insights • Dashboards (SQL • Excel • Power BI)
 ### Transforming Raw Data into Actionable Insights
 
 Data Analyst with over 2 years of experience in data analytics, specialising in Structured Query Language for data extraction, transformation, and data manipulation, Microsoft Excel for advanced reporting and modelling, and Power BI for building interactive dashboards. I transform raw data into clear insights that support better decisions and improved performance.

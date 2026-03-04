@@ -10,10 +10,9 @@ Data Analyst with over 2 years of experience in data analytics, specialising in 
 
 ### Cardiac Surgery & Mortality Risk Analysis Dashboard (2020)
 
-An interactive dashboard analysing surgery volume, discharge outcomes, operation types, and mortality risk trends across surgeons.
+This project analyses 1,335 cardiac surgery procedures performed in 2020 to evaluate surgical activity, patient outcomes, and mortality risk predictions. Using Microsoft Excel, I cleaned and validated clinical data, compared two mortality risk models, and built an interactive dashboard to explore surgical performance across surgeons and procedure types. The analysis highlights variations in surgical workload, mortality outcomes, and differences between predictive risk models.
 
-
-🔗 Project Link: (Paste your GitHub repo link here after creating it)
+🔗 Project Link: [(https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/Cardiac%20Surgery%20%26%20Mortality%20Risk%20Analysis.xlsx)]
 
 **Tools Used**
 - Microsoft Excel (PivotTables, PivotCharts, power query editor, conditional formatting, timelines, slicers, calculated metrics)
@@ -29,10 +28,29 @@ An interactive dashboard was developed to provide a clear overview of hospital s
 
 This project demonstrates how structured data analysis and visualisation can support clinical performance monitoring and data-driven decision-making in healthcare environments.
 
+
 **Key Findings**
+- Overall Mortality: The dataset recorded 1,335 cardiac surgeries with an overall mortality rate of approximately 3.3%, indicating generally positive patient outcomes.
+
+- Highest Mortality Rate by Surgeon: S. Scully showed the highest observed mortality rate at ~5%, based on discharge outcomes, suggesting potential variation in case complexity or patient risk profile.
+
+- Procedure Distribution: CABG, Valve, and combined CABG & Valve procedures accounted for the majority of surgical activity across surgeons, making them the most common cardiac interventions in the dataset.
+
+- Mortality Risk Model Comparison: The two statistical models produced different predicted mortality levels, with Model 1 consistently predicting higher risk values than Model 2, highlighting potential differences in modelling assumptions.
+
+- Outlier Observation: The “Multiple Surgeon Team” category displayed unusually high predicted mortality risk, likely influenced by the small sample size of procedures, which can distort average risk estimates.
+
+- Patient Outcomes: The majority of patients were discharged Alive, with very few Unknown outcomes recorded, indicating strong data completeness and reliable outcome reporting.
+
+- Operational Insight: Surgical volumes varied significantly between surgeons, revealing differences in workload distribution and procedure frequency, which may influence performance metrics and resource planning.
+
+
+
+
 
 
 **Dashboard Overview**
+
 ![cardiac-dashboard-overview](cardiac-dashboard-overview.jpg)
 ---
 

@@ -22,8 +22,8 @@ The workflow imports raw scraped data into a staging table, cleans and standardi
 - Data cleaning techniques
 - Data validation queries
 
-Project Link:  
-https://github.com/MichaelOluwaseun246/pub-contact-data-cleaning-sql
+Project Link:  [sql Data Cleaning queries](https://github.com/MichaelOluwaseun246/pub-contact-data-cleaning-sql/blob/main/README.md)
+
 
 ## Project II
 

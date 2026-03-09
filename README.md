@@ -8,6 +8,21 @@ Data Analyst with over 2 years of experience in data analytics, specialising in 
 
 ## 📊 Portfolio Projects
 
+### SQL Business Contact Data Cleaning Pipeline
+
+This project demonstrates a structured SQL data-cleaning pipeline for business contact data scraped from the web.
+
+The workflow imports raw scraped data into a staging table, cleans and standardises fields using SQL transformations, and performs validation checks to ensure data quality before analysis.
+
+**Tools Used**
+- SQL Server
+- T-SQL
+- Data cleaning techniques
+- Data validation queries
+
+Project Link:  
+https://github.com/MichaelOluwaseun246/pub-contact-data-cleaning-sql
+
 ### Cardiac Surgery Performance & Mortality Risk Analysis (2020)
 
 This project analyses 1,335 cardiac surgery procedures performed in 2020 to evaluate surgical activity, patient outcomes, and mortality risk predictions. Using Microsoft Excel, I cleaned and validated clinical data, compared two mortality risk models, and built an interactive dashboard to explore surgical performance across surgeons and procedure types. The analysis highlights variations in surgical workload, mortality outcomes, and differences between predictive risk models.

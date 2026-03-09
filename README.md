@@ -8,6 +8,8 @@ Data Analyst with over 2 years of experience in data analytics, specialising in 
 
 ## 📊 Portfolio Projects
 
+### Project I
+
 ### SQL Business Contact Data Cleaning Pipeline
 
 This project demonstrates a structured SQL data-cleaning pipeline for business contact data scraped from the web.
@@ -22,6 +24,8 @@ The workflow imports raw scraped data into a staging table, cleans and standardi
 
 Project Link:  
 https://github.com/MichaelOluwaseun246/pub-contact-data-cleaning-sql
+
+## Project II
 
 ### Cardiac Surgery Performance & Mortality Risk Analysis (2020)
 

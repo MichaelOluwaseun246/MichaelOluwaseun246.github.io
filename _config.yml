@@ -3,14 +3,15 @@ logo: /logo.png
 description: |
   <strong>Focus Areas</strong>
   <ul>
-    <li>Performance reporting and KPI tracking</li>
-    <li>Outcome and trend analysis</li>
-    <li>Risk pattern identification and evaluation</li>
-    <li>Operational activity and volume analysis</li>
-    <li>Insight generation to support strategic decision-making</li>
+    <li>SQL data extraction and transformation</li>
+    <li>KPI reporting and performance analysis</li>
+    <li>Trend and pattern analysis</li>
+    <li>Dashboard development</li>
+    <li>Insight generation for decision-making</li>
   </ul>
 
 #show_downloads: true
 #google_analytics:
 
 remote_theme: pages-themes/minimal@v0.2.0
+

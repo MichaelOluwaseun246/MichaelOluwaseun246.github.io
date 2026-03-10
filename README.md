@@ -22,12 +22,12 @@ The workflow imports raw scraped data into a staging table, cleans and standardi
 
 Project Link:  [View SQL Project on GitHub](https://github.com/MichaelOluwaseun246/pub-contact-data-cleaning-sql/blob/main/README.md)
 
-Key Skills Demonstrated
-• Data cleaning and transformation
-• Handling missing values
-• Email validation logic
-• Duplicate detection
-• SQL data quality checks
+**Key Skills Demonstrated**
+- Data cleaning and transformation
+- Handling missing values
+- Email validation logic
+- Duplicate detection
+- SQL data quality checks
 
 
 ### Cardiac Surgery Performance & Mortality Risk Analysis (2020)

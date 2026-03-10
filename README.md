@@ -54,7 +54,7 @@ Using Microsoft Excel, I cleaned and explored sales transaction data and built a
 
 **Interactive Dashboard Overview**
 
-![E-commerce-sales-dashboard](E-commerce sales dashboard.jpg)
+![E-commerce-sales-dashboard](
 ---
 
 ### Cardiac Surgery Performance & Mortality Risk Analysis (2020)

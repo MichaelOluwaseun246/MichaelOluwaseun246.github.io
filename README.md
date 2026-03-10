@@ -31,6 +31,31 @@ Project Link:  [View SQL Project on GitHub](https://github.com/MichaelOluwaseun2
 
 ---
 
+### E-Commerce Sales Performance Dashboard
+
+This project analyses an e-commerce sales dataset to evaluate business performance, customer behaviour, and operational efficiency.
+
+Using Microsoft Excel, I cleaned and explored sales transaction data and built an interactive dashboard that enables users to analyse sales trends, customer value, and product performance across regions and time periods.
+
+**Tools Used**
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Slicers and Timeline Filters
+- Calculated Metrics
+- Interactive Dashboard Design
+
+**Key Insights**
+- Total sales exceeded $2.29M across nearly 10,000 orders.
+- Phone orders in California increased by 24% between 2016 and 2017.
+- Average shipping time improved from 4.01 days in 2015 to 3.91 days in 2017.
+- Standard shipping accounted for the majority of fulfilled orders.
+
+🔗 **View Excel Dashboard Project**
+
+**Interactive Dashboard Overview**
+
+![E-commerce-sales-dashboard](E-commerce sales dashboard.jpg)
+---
 
 ### Cardiac Surgery Performance & Mortality Risk Analysis (2020)
 

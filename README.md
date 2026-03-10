@@ -29,6 +29,8 @@ Project Link:  [View SQL Project on GitHub](https://github.com/MichaelOluwaseun2
 - Duplicate detection
 - SQL data quality checks
 
+---
+
 
 ### Cardiac Surgery Performance & Mortality Risk Analysis (2020)
 

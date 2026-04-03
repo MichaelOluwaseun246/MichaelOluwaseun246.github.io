@@ -20,7 +20,7 @@ The workflow imports raw scraped data into a staging table, cleans and standardi
 - Data cleaning techniques
 - Data validation queries
 
-Project Link:  [View SQL Project on GitHub](https://github.com/MichaelOluwaseun246/pub-contact-data-cleaning-sql/blob/main/README.md)
+**Project Link:**  [View SQL Project on GitHub](https://github.com/MichaelOluwaseun246/pub-contact-data-cleaning-sql/blob/main/README.md)
 
 **Key Skills Demonstrated**
 - Data cleaning and transformation
@@ -38,7 +38,7 @@ This project analyses an e-commerce sales dataset to evaluate business performan
 Using Microsoft Excel, I cleaned and explored sales transaction data and built an interactive dashboard that enables users to analyse sales trends, customer value, and product performance across regions and time periods.
 
 
-🔗 **Project Link** [Excel Analysis File](https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/E-commerce%20project.xlsx)
+🔗 **Project Link:** [Excel Analysis File](https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/E-commerce%20project.xlsx)
 
 **Tools Used**
 - Microsoft Excel
@@ -68,7 +68,7 @@ Using Excel, the data was cleaned, validated, and analysed, with an interactive 
 
 Tools: Microsoft Excel (PivotTables, PivotCharts, Data Cleaning, Timelines, Slicers, Calculated metrics)
 
-🔗 Project Link: [Excel Analysis File](https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/Cardiac%20Surgery%20%26%20Mortality%20Risk%20Analysis.xlsx)
+🔗 **Project Link:** [Excel Analysis File](https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/Cardiac%20Surgery%20%26%20Mortality%20Risk%20Analysis.xlsx)
 
 ## 🔍 Key Business Questions
 - How does mortality rate vary across surgeons?

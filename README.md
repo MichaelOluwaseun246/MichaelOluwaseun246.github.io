@@ -50,7 +50,7 @@ Using Microsoft Excel, I cleaned and explored sales transaction data and built a
 - Average shipping time improved from 4.01 days in 2015 to 3.91 days in 2017.
 - Standard shipping accounted for the majority of fulfilled orders.
 
-🔗 **View Excel Dashboard Project**
+🔗 **View Excel Project Link**
 
 **Interactive Dashboard Overview**
 

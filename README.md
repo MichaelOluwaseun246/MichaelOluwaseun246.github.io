@@ -37,6 +37,9 @@ This project analyses an e-commerce sales dataset to evaluate business performan
 
 Using Microsoft Excel, I cleaned and explored sales transaction data and built an interactive dashboard that enables users to analyse sales trends, customer value, and product performance across regions and time periods.
 
+
+🔗 **Project Link** [Excel Analysis File](https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/E-commerce%20project.xlsx)
+
 **Tools Used**
 - Microsoft Excel
 - PivotTables & PivotCharts
@@ -50,7 +53,6 @@ Using Microsoft Excel, I cleaned and explored sales transaction data and built a
 - Average shipping time improved from 4.01 days in 2015 to 3.91 days in 2017.
 - Standard shipping accounted for the majority of fulfilled orders.
 
-🔗 **Project Link** [Excel Analysis File](https://github.com/MichaelOluwaseun246/MichaelOluwaseun246.github.io/blob/main/E-commerce%20project.xlsx)
 
 **Interactive Dashboard Overview**
 
